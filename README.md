@@ -1,3 +1,7 @@
 # printWebPage
 
-print web page use html2canvas and jsPDF 
+print web page to PDF
+
+use html2canvas and jsPDF 
+
+auto titled pdf and auto download
